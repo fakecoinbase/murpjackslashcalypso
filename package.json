@@ -70,6 +70,6 @@
     "axios": "^0.19.2",
     "kind-of": "^6.0.3",
     "babel-eslint": "^10.0.3",
-    "minimist": "^0.2.1"
+    "minimist": "^1.2.6"
   }
 }
